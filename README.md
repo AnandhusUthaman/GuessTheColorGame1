@@ -64,13 +64,16 @@ For Software:
 # Screenshots (Add at least 3)
 
 *Easy level*
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/0d86c275-abbc-4704-b45c-21b4b6691b00" />
+
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/228fba6e-334a-4db1-8d5e-d8d8bee4124b" />
+
 *correct answer*
 
 *Hard level*
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/15196f8b-1888-41a3-b1f5-7249cde9928f" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/98b61273-8410-4814-acba-14fef93855ac" />
+
 *correct answer*
 
 
