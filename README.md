@@ -59,7 +59,10 @@ npm i
 npm start
 
 ### Project Documentation
-For Software:
+Software Name: Guess the Color Game
+Version: 1.0
+Deployment: guess-the-color-game1.vercel.app
+Developer: Anandhu S Uthaman , Shimna B
 
 # Screenshots (Add at least 3)
 
