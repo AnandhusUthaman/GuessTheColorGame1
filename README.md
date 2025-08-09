@@ -14,13 +14,13 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+A minimal web game where you guess which color matches a given RGB value, typically with multiple difficulty levels and scoring.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Many people struggle to visualize RGB color codes, making it hard to connect numbers with actual colors. This game provides an interactive way to improve color recognition skills while having fun.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Instead of just Googling “RGB color chart” like a normal person, this game forces you to stare at random color codes, second-guess yourself, and click colored squares until you finally learn the difference between #FF5733 and #FF5722 — all while pretending it’s educational.
 
 ## Technical Details
 ### Technologies/Components Used
